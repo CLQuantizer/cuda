@@ -1,0 +1,6 @@
+{
+    "floatx": "float16",
+    "epsilon": 1e-07,
+    "backend": "torch",
+    "image_data_format": "channels_last"
+}
